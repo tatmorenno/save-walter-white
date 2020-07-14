@@ -2,7 +2,7 @@
    Save Walter White
    <br/>
   <kbd>
-  <img src="https://ik.imagekit.io/tatmorenno/Walter_White_29aseVhlz.png" height="400" width="600">
+  <img src="https://ik.imagekit.io/tatmorenno/Walter_White_29aseVhlz.png" height="500" width="900">
   </kbd>
 </h1>
 
