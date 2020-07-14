@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <kbd>
-  <img src="https://ik.imagekit.io/tatmorenno/https___savewalterwhite.netlify.app_-_Google_Chrome_2020-07-14_10-57-28_ovNM8yRt-.gif" width="700" height="400">
+  <img src="https://ik.imagekit.io/tatmorenno/https___savewalterwhite.netlify.app_-_Google_Chrome_2020-07-14_10-57-28_ovNM8yRt-.gif">
   </kbd>
 </h1>
 
