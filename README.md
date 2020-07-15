@@ -8,6 +8,11 @@
 
 <br/>
 
+## 💻 Projeto
+O [Save Walter White](https://savewalterwhite.netlify.app/) é uma recriação do site original [http://www.savewalterwhite.com/].
+## 🔖 Deploy
+[Clique aqui para acessar este projeto pelo Netlify](https://savewalterwhite.netlify.app/)
+
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -15,11 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html);
 - [Bootstrap](https://getbootstrap.com/);
 - [JQuery](https://jquery.com/).
-
-## 💻 Projeto
-O [Save Walter White](https://savewalterwhite.netlify.app/) é uma recriação do site original [http://www.savewalterwhite.com/].
-## 🔖 Deploy
-[Clique aqui para acessar este projeto pelo Netlify](https://savewalterwhite.netlify.app/)
 
 ## 🤔 Como contribuir
 
