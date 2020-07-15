@@ -16,8 +16,6 @@ O [Save Walter White](https://savewalterwhite.netlify.app/) é uma recriação d
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML);
-- [CSS](https://www.w3.org/Style/CSS/Overview.en.html);
 - [Bootstrap](https://getbootstrap.com/);
 - [JQuery](https://jquery.com/).
 
