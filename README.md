@@ -9,7 +9,7 @@
 <br/>
 
 ## 💻 Projeto
-O [Save Walter White](https://savewalterwhite.netlify.app/) é uma recriação do site original [http://www.savewalterwhite.com/].
+O [Save Walter White](https://savewalterwhite.netlify.app/) é uma recriação do site original http://www.savewalterwhite.com/.
 ## 🔖 Deploy
 [Clique aqui para acessar este projeto pelo Netlify](https://savewalterwhite.netlify.app/)
 
