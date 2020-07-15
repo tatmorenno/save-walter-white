@@ -11,7 +11,7 @@
 ## 💻 Projeto
 O [Save Walter White](https://savewalterwhite.netlify.app/) é uma recriação do site original http://www.savewalterwhite.com/.
 ## 🔖 Deploy
-[Clique aqui para acessar este projeto pelo Netlify](https://savewalterwhite.netlify.app/)
+[Clique aqui](https://savewalterwhite.netlify.app/) para acessar este projeto pelo [Netlify](https://www.netlify.com/).
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
