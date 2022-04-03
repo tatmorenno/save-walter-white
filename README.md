@@ -2,7 +2,7 @@
    Save Walter White
    <br/><br/>
   <kbd>
-  <img src="https://ik.imagekit.io/tatmorenno/https___savewalterwhite.netlify.app_-_Google_Chrome_2020-07-14_10-57-28_ovNM8yRt-.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1594735835361" height="500" width="900">
+  <img src="https://ik.imagekit.io/tatmorenno/Walter_White_29aseVhlz.png" height="500" width="900">
   </kbd>
 </h1>
 
